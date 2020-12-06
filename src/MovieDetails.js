@@ -4,7 +4,7 @@ import { useParams } from "react-router-dom";
 import { StyledMovieImage} from "./components/Card/Card.style"
 
 const movieDetailBaseUrl = "https://api.themoviedb.org/3/movie/"
-const apiKey = "c8015b69e437a68b1b37cfb3bd3f2b19"; //temporary
+const apiKey = "7fc8d00ab1302c6aa7da237d2810116e"; //temporary
 const baseImageUrl = "https://image.tmdb.org/t/p/w500";
 
 export default function MovieDetails() {

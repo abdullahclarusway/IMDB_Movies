@@ -5,7 +5,7 @@ import './App.css';
 import {SearchBox} from "./components/SearchBox";
 import {CardList} from "./components/CardList";
 
-const apiKey = "c8015b69e437a68b1b37cfb3bd3f2b19"; //temporary
+const apiKey = "7fc8d00ab1302c6aa7da237d2810116e"; //temporary
 const baseUrl = "https://api.themoviedb.org/3/search/movie";
 const baseImageUrl = "https://image.tmdb.org/t/p/w500";
 
